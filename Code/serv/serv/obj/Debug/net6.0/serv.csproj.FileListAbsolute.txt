@@ -1,0 +1,15 @@
+C:\Users\gunte\source\repos\serv\serv\bin\Debug\net6.0\serv.exe
+C:\Users\gunte\source\repos\serv\serv\bin\Debug\net6.0\serv.deps.json
+C:\Users\gunte\source\repos\serv\serv\bin\Debug\net6.0\serv.runtimeconfig.json
+C:\Users\gunte\source\repos\serv\serv\bin\Debug\net6.0\serv.dll
+C:\Users\gunte\source\repos\serv\serv\bin\Debug\net6.0\serv.pdb
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.csproj.AssemblyReference.cache
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.AssemblyInfoInputs.cache
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.AssemblyInfo.cs
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.csproj.CoreCompileInputs.cache
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.dll
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\refint\serv.dll
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.pdb
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\serv.genruntimeconfig.cache
+C:\Users\gunte\source\repos\serv\serv\obj\Debug\net6.0\ref\serv.dll

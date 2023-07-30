@@ -1,0 +1,15 @@
+C:\Users\gunte\source\repos\clien\clien\bin\Debug\net6.0\clien.exe
+C:\Users\gunte\source\repos\clien\clien\bin\Debug\net6.0\clien.deps.json
+C:\Users\gunte\source\repos\clien\clien\bin\Debug\net6.0\clien.runtimeconfig.json
+C:\Users\gunte\source\repos\clien\clien\bin\Debug\net6.0\clien.dll
+C:\Users\gunte\source\repos\clien\clien\bin\Debug\net6.0\clien.pdb
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.csproj.AssemblyReference.cache
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.AssemblyInfoInputs.cache
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.AssemblyInfo.cs
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.csproj.CoreCompileInputs.cache
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.dll
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\refint\clien.dll
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.pdb
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\clien.genruntimeconfig.cache
+C:\Users\gunte\source\repos\clien\clien\obj\Debug\net6.0\ref\clien.dll
